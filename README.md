@@ -1,6 +1,6 @@
 # Simple Calc
 
-This application describes about simple arithmetic operation between two numbers application using **Android Studio**.<br> <br>
+This application describes about **Simple arithmetic Operations** between **two numbers** application using **Android Studio**.<br> <br>
 🟢🟡🔴
 # Files
 - main_activity.xml - about Designing layout
